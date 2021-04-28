@@ -5,13 +5,21 @@
 
 #### Clone the Repo.
 ```
-    git clone https://github.com/vikas-ukani/foodest-backend.git
+git clone https://github.com/vikas-ukani/foodest-backend.git
 ```
 
+#### Check your Node Versions:
+
+```
+$ node --version
+v14.16.0
+
+$ npm --version
+6.1.0
+```
 
 #### Package Installation
 ```
-
 npm i 
 OR
 npm install
