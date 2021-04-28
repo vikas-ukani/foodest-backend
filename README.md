@@ -24,4 +24,43 @@ npm run dev
 It will automatically redirect to the development url.
 
 
+#### Project Structure:
+```
+api
+├───foods
+│   ├───config
+│   ├───controllers
+│   ├───models
+│   └───services
+└───restorents
+    ├───config
+    ├───controllers
+    ├───models
+    └───services
+build
+config
+└───functions
+    └───responses
+exports
+└───graphql
+extensions
+└───users-permissions
+    └───config
+functions
+public
+└───uploads
+functions
+.cache
+.editorconfig
+.env.example
+.eslintignore
+.eslintrc
+.gitignore
+.strapi-updater.json
+package.json
+package-lock.json
+public
+README.md
+```
+
 > Note: If you are intrusted in front-end of this project then find the `foodest` repository. 
