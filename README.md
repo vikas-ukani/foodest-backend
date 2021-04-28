@@ -1,3 +1,4 @@
-# Strapi application
+# FOODEST-BACKEND 
 
-A quick description of your strapi application
+- A Customized Admin Backend System with NodeJS, Strapi, RestAPIs, GraphQL and PostgreSQL.
+
